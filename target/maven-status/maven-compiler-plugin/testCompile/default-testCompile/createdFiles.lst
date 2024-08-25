@@ -1,0 +1,8 @@
+br\com\testesjunit\listaum\calculadoraavancada\controller\CalculadoraAvancadaControllerTest.class
+br\com\testesjunit\listaum\estatisticasdelista\controller\EstatisticasDeListaControllerTest.class
+br\com\testesjunit\listaum\gerenciadorcontas\controller\GerenciadorDeContasTest.class
+br\com\testesjunit\introducao\calculadora\controller\CalculadoraControllerTest.class
+br\com\testesjunit\introducao\validacaocpf\controller\CpfControllerTest.class
+br\com\testesjunit\listaum\processadordetexto\controller\ProcessadorDeTextoControllerTest.class
+br\com\testesjunit\introducao\conversortemperatura\controller\ConversorTemperaturaControllerTest.class
+br\com\testesjunit\listaum\gerenciadordepedidos\controller\GerenciadorDePedidosTest.class
